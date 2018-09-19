@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPA_spartj3_Calculator</string>
+    <string name="enter_grades">Enter Grades</string>
+    <string name="class_name_one">Class 1:</string>
+    <string name="class_name_two">Class 2:</string>
+    <string name="class_name_three">Class 3:</string>
+    <string name="class_name_four">Class 4:</string>
+    <string name="class_name_five">Class 5:</string>
+    <string name="calc_button">Compute gpa</string>
+    <string name="gpa_label">GPA:</string>
+    <string name="reset_fields_button">Clear Form</string>
+</resources>
